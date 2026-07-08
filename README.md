@@ -22,13 +22,14 @@ Using SQL queries, the system helps generate insights about workforce distributi
 
 The project contains the following tables:
 
-- Regions
-- Countries
-- Locations
-- Departments
-- Jobs
-- Employees
-- Dependents
+- Regions: Stores geographical regions.
+- Countries: Stores country details.
+- Locations: Stores office locations.
+- Departments: Stores department information.
+- Jobs: Stores job titles and salary ranges.
+- Employees: Stores employee details.
+- Dependents: Stores dependent information.
+
 
 
 ## SQL Concepts Used
